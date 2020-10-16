@@ -18,6 +18,7 @@
             curl_setopt($CurlSession,CURLOPT_URL,$url);
             curl_exec($session);
             curl_close($session);
+            //Ciaoooooooasnknsaiocacnsckncksla
         }
     }
     else{
