@@ -17,7 +17,7 @@
             $session = curl_init();
             curl_setopt($CurlSession,CURLOPT_URL,$url);
             curl_exec($session);
-            curl_close($session);
+            curl_close($session
         }
     }
     else{
